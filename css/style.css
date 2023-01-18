@@ -4,7 +4,7 @@
 }
 body{
     margin: 0;
-    background-color: #3FB3DF;
+    background-image: url(../img/back.jpg);
 }
 .container{
     display: flex;
