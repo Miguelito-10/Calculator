@@ -1,4 +1,4 @@
-export class Calculator {
+class Calculator {
     plus(num1, num2) {
         return num1 + num2;
     }
